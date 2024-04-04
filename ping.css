@@ -1,0 +1,38 @@
+html{
+    background-color: white;
+}
+
+
+
+body{
+    background-color: white;
+    height: 100%;
+}
+
+.card-header-title{
+    color:black;
+}
+
+
+.card{
+    background-color: white;
+}
+
+#p1button,#p2button,#reset{
+    border: 2px solid black;
+    border-radius: 5px;
+    color: white;
+}
+
+button{
+    color: white;
+}
+
+#playto{
+    background-color: white;
+    color: black;
+}
+
+label{
+    color: black;
+}
